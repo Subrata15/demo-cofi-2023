@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 from utils import predict_text
-
+# ini komen
 st.title("Sentiment Analysis")
 
 # Input teks
